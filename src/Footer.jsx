@@ -10,7 +10,10 @@ export default function Footer() {
           Lyvia Alam
         </a>{" "}
         and is
-        <a href="/" target="_blank">
+        <a
+          href="https://github.com/LyviaAlam/Basic-Weather-App-React"
+          target="_blank"
+        >
           {" "}
           on GitHub
         </a>{" "}
